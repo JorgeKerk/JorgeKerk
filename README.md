@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate developer full stack from Argentina</h3>
 
+- 📫 How to reach me **jorgekerk@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

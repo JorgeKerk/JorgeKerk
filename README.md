@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jorge Kerk</h1>
 
+<div align="center">
 ![Teclado](https://user-images.githubusercontent.com/116817886/204831967-4516918c-afa1-40d1-bcea-14c34c3a032f.jpg)
+</div>
 
 <h3 align="center">A passionate developer full stack from Argentina</h3>
 

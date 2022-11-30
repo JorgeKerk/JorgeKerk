@@ -1,4 +1,4 @@
-<img src="https://unsplash.com/es/fotos/ieic5Tq8YMk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" alt="">
+![Teclado](https://user-images.githubusercontent.com/116817886/204831967-4516918c-afa1-40d1-bcea-14c34c3a032f.jpg)
 
 <h1 align="center">Hi 👋, I'm Jorge Kerk</h1>
 <h3 align="center">A passionate developer full stack from Argentina</h3>

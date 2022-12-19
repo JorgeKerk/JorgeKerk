@@ -5,8 +5,6 @@
 </div>
 
 <h3 align="center">A passionate developer full stack from Argentina</h3>
-<p>- 🔭 I’m currently working on **Developer Web** </p>
-- 💬 Ask me about **HTML, CSS, JS, REACT**
 - 📫 How to reach me: **jorgekerk@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>

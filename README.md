@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Kerk</h1>
-<div align="center">
-  
-  ![gifs-de-programador-3](https://user-images.githubusercontent.com/116817886/208667256-278250e4-c63d-4e9e-a373-7c268e8a76a6.gif)
-  
+<div align="center" width="300">
+  <img src="https://user-images.githubusercontent.com/116817886/208667256-278250e4-c63d-4e9e-a373-7c268e8a76a6.gif" width="500">   
 </div>
 <hr>
 <h3 align="center">A passionate developer full stack from Argentina</h3>

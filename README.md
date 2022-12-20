@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jorge Kerk</h1>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/116817886/204831967-4516918c-afa1-40d1-bcea-14c34c3a032f.jpg" alt="Imagen codigo de programación">
+  
+  ![gifs-de-programador-3](https://user-images.githubusercontent.com/116817886/208667256-278250e4-c63d-4e9e-a373-7c268e8a76a6.gif)
+  
 </div>
-
+<hr>
 <h3 align="center">A passionate developer full stack from Argentina</h3>
 <p>- 🔭 I’m currently working on <strong>Developer Web</strong></p>
 <p>- 💬 Ask me about <strong>HTML, CSS, JS, REACT</strong></p>

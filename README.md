@@ -7,6 +7,15 @@
 <br>
 <p>- 🔭 I’m currently working on <strong>Developer Web</strong></p>
 <p>- 💬 Ask me about <strong>Javascript | CSS | Tailwind CSS| HTML5 | React js | Redux | Redux Toolkit | Express | PostgreSQL | MySQL | Sequelize | Node js | Cloudinary</strong></p>
+<p><strong>Who I am ?</strong> I am a Fullstack Web Developer with great ability to work in a team and carry out web projects with the greatest enthusiasm and responsibility.</p>
+
+<p><strong>Because I?</strong> With me you will have excellent technical skills, teamwork, problem solving and above all a great desire to help and learn from others. This will help me strengthen and expand all my abilities.</p>
+
+<p><strong>Experience</strong> I have been developing systems in FoxPro for more than 10 years, I maintain and develop Cobol systems, I manage databases in Microsoft SQL Management Studio. I am currently studying Full Stack Web Developer at UTN and taking the final stage of SoyHenry
+My most outstanding academic experience was last year, because I was able to work as a Fullstack Web Developer student at Henry, where I learned and perfected my foundations in Back-end and Front-end, strengthening myself in JavaScript, React.js with its libraries and Frameworks. .
+My level of English is A1 and I am currently practicing to improve this skill.</p>
+
+<p>If you want to know more about me, do not hesitate to contact me !!! </p>
 <p>- 📫 How to reach me: <strong>jorgekerk@gmail.com</strong></p>
 <p>- ⚡ For more information visit my website: https://jorgekerk.github.io/TP1-Web-personal-UTN/#secIdMain</p>
 <br>

@@ -6,7 +6,7 @@
 <h3 align="center">A passionate developer full stack from Argentina</h3>
 <br>
 <p>- 🔭 I’m currently working on <strong>Developer Web</strong></p>
-<p>- 💬 Ask me about <strong>HTML, CSS, JS, REACT</strong></p>
+<p>- 💬 Ask me about <strong>Javascript | CSS | Tailwind CSS| HTML5 | React js | Redux | Redux Toolkit | Express | PostgreSQL | MySQL | Sequelize | Node js | Cloudinary</strong></p>
 <p>- 📫 How to reach me: <strong>jorgekerk@gmail.com</strong></p>
 <p>- ⚡ For more information visit my website: https://jorgekerk.github.io/TP1-Web-personal-UTN/#secIdMain</p>
 <br>

@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/116817886/208667256-278250e4-c63d-4e9e-a373-7c268e8a76a6.gif" width="500">   
 </div>
 <hr>
-<h3 align="center">A passionate developer full stack from Argentina</h3>
+<h3 align="center">A passionate Fullstack Web Developer from Argentina</h3>
 <br>
 <p>- 🔭 I’m currently working on <strong>Developer Web</strong></p>
 <p>- 💬 Ask me about <strong>Javascript | CSS | Tailwind CSS| HTML5 | React js | Redux | Redux Toolkit | Express | PostgreSQL | MySQL | Sequelize | Node js | Cloudinary</strong></p>
